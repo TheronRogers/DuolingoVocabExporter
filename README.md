@@ -14,6 +14,6 @@ Because of how the vocabulary pages work (they progressively load more words as 
 
 ### Or as a bookmarklet:
 1. Create a new bookmark and title it whatever you want.
-1. In the bookmark's URL field, paste the contents of https://github.com/TheronRogers/DuolingoVocabExporter/blob/master/duolingo-vocab-exporter-minified and save the bookmark.
+1. In the bookmark's URL field, type "javascript:" (without the quotes), and paste the contents of https://github.com/TheronRogers/DuolingoVocabExporter/blob/master/duolingo-vocab-exporter-minified
 
 This will allow you to click that bookmark while on any Duolingo vocab page to run the script.
